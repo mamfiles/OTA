@@ -1,0 +1,8 @@
+{
+    "show_message": false,
+    "title": "Update Availabe",
+    "content_url": "https://ota.moazzamworkspace.com/snap/changelog.html",
+    "positive_btn": "Update Now",
+    "link": "https://mod.moazzamworkspace.com/2023/02/snapchatplus.html",
+    "cancelable": false
+}
