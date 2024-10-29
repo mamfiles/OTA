@@ -4,5 +4,5 @@
     "content_url": "https://ota.moazzamworkspace.com/lightroom/changelog.html",
     "positive_btn": "Update Now",
     "link": "https://mod.moazzamworkspace.com/2022/05/lightroom.html",
-    "cancelable": false
+    "cancelable": true
 }
