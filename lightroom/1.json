@@ -1,5 +1,5 @@
 {
-    "show_message": true,
+    "show_message": false,
     "title": "Update Availabe",
     "content_url": "https://ota.moazzamworkspace.com/lightroom/changelog.html",
     "positive_btn": "Update Now",
